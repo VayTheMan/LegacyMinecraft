@@ -11,7 +11,7 @@ This repository houses the reconstructed source for Minecraft: Legacy Console Ed
 
 ## Quick Start
 
-**Windows users** can grab the latest [automated build](https:). Download the `.zip` archive, extract to any folder, and launch `Minecraft.Client.exe`. Create a `username.txt` file in the same directory to set your player name.
+**Windows users** can grab the latest [automated build](https://github.com/VayTheMan/LegacyMinecraft/releases/tag/Release). Download the `.zip` archive, extract to any folder, and launch `Minecraft.Client.exe`. Create a `username.txt` file in the same directory to set your player name.
 
 ## System Compatibility
 
